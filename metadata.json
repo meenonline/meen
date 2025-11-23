@@ -1,0 +1,5 @@
+{
+  "name": "SubStock RH Manager",
+  "description": "ระบบบริหารจัดการคลังยา Substock โรงพยาบาล เชื่อมต่อ Firebase Realtime Database รองรับการรับเข้า-จ่ายออก พยากรณ์การเบิก และพิมพ์ใบเบิก",
+  "requestFramePermissions": []
+}
